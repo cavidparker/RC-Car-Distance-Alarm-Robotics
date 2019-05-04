@@ -6,5 +6,5 @@ To control the car used Android-device with a built-in accelerometer. Tilt forwa
 ## Distance Alarm :
 A simple device that will trigger an alarm when objects come too close to the Ultrasonic sensor.
 
-## Android device
+## Android device :
 The most important part - Android device with accelerometer and Bluetooth: tablet, smartphone and other... As an Android device, I used a cheap Chinese tablet "Ainol Aurora" with an external USB-Bluetooth module (because its not have own), connected via USB Host.
